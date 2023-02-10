@@ -1,0 +1,4 @@
+azure-devops
+pandas
+python-dotenv
+tqdm
