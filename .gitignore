@@ -127,3 +127,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# secrets file
+.env
+
+# docker development
+.devcontainer/
+
+# prototyping
+testing.ipynb
+
+# .csv files
+*.csv
